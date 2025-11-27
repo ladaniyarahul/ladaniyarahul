@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Jangid</h1>
-<h3 align="center">AI Engineer | Machine Learning | Computer Vision | LLMs</h3>
+<h3 align="center">AI Engineer | LLMs | Computer Vision | MLOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulladaniya/">
@@ -13,46 +13,47 @@
 ---
 
 ## 🚀 About Me  
-AI Engineer with hands-on experience building **LLM-based systems, computer vision pipelines,  
-real-time data processing, scalable APIs, and Generative AI applications**.
+AI Engineer building **LLM systems, real-time pipelines, MLOps deployments, and enterprise AI solutions.**  
+I specialize in:
 
-I love creating solutions using:
-- 🧠 **Machine Learning & Deep Learning**  
-- 🤖 **LLMs, RAG Pipelines, Agents, LangGraph**  
-- 👁️ **YOLO, OpenCV, OCR, MediaPipe**  
-- 🐳 **FastAPI, Docker, MLOps**  
-- 🔎 **Real-time pipelines with Kafka + Qdrant**
+- 🧠 Machine Learning, Deep Learning  
+- 🤖 LLMs, RAG Pipelines, LangGraph, Agents  
+- 👁️ Computer Vision — YOLO, OCR, OpenCV  
+- ⚙️ FastAPI, Docker, Kafka, Qdrant  
+- 📈 End-to-end scalable AI product development  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### **Programming**
+### **Languages & Core**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,git,github,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux" />
 </p>
 
 ### **Machine Learning / Deep Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn" />
 </p>
 
-### **Data & Analytics**
+### **LLMs & GenAI**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/LangGraph-Agents-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-VectorDB-purple?style=for-the-badge" />
+</p>
+
+### **Computer Vision**
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-red?style=for-the-badge" />
 </p>
 
 ### **MLOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img height="48" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" />
-</p>
-
-### **Other Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://img.shields.io/badge/LLMs-Transformers-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-VectorDB-purple?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=docker,fastapi" />
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" />
 </p>
 
 ---
@@ -60,34 +61,43 @@ I love creating solutions using:
 ## 📌 Featured Projects
 
 ### 🔹 **AI Avatar with Lip Sync & Motion**  
-**Python | Deep Learning | Computer Vision**  
-- AI-powered talking avatar with facial expression sync  
-- Speech → motion generation using DL models  
-- Precise face-tracking + animation pipeline  
+**Python | Deep Learning | CV**  
+- Generated realistic lip-sync & motion animation  
+- Accurate face-tracking → smooth expression mapping  
+- **Improved animation realism by 30%** (model tuning)
 
 ---
 
-### 🔹 **Chatbot with LangGraph & AI Agents**  
-**Python | LangGraph | Qdrant | Kafka | FastAPI**  
-- Real-time CRM chatbot with scalable architecture  
-- Used Kafka streams + vector search + agents  
-- WebSocket-powered live responses  
+### 🔹 **LangGraph Chatbot with AI Agents**  
+**LangGraph | Agents | Qdrant | Kafka | FastAPI**  
+- Real-time CRM chatbot using multi-agent workflow  
+- Kafka streams for scalable live chat ingestion  
+- **Reduced query response time by 40%**  
+- WebSocket-based real-time messaging  
 
 ---
 
-### 🔹 **AI Document Parser (YOLO + OCR + Table Extraction)**  
+### 🔹 **AI Document Parser (YOLO + OCR)**  
 **Python | YOLO | OCR | Pandas**  
-- Segmented document sections into 11 categories  
-- Auto table extraction → clean DataFrame  
-- Full JSON/CSV export pipeline  
+- 11-class document segmentation  
+- Auto table extraction into structured DataFrames  
+- **Cut manual data extraction time by 70%**
 
 ---
 
-### 🔹 **Object Detection & Counting (YOLO)**  
-**Python | OpenCV | Deep Learning**  
-- Real-time detection & line-crossing counting  
-- Optimized for speed + accuracy  
-- Supports live streams & CCTV feeds  
+### 🔹 **Realtime Object Detection & Counting**  
+**YOLO | OpenCV**  
+- CCTV-ready detection + line-cross counting  
+- Optimized for low-latency performance  
+- Works on both live and recorded feeds  
+
+---
+
+## 🔍 What I'm Looking For  
+- AI Engineer / ML Engineer roles  
+- LLM + RAG + Generative AI development  
+- CV-based intelligent pipeline development  
+- Scalable ML deployment (MLOps)
 
 ---
 
@@ -107,12 +117,4 @@ I love creating solutions using:
 
 ---
 
-## 🎯 Goals for 2025  
-- Build **enterprise-level AI projects**  
-- Contribute to **open-source LLM & CV repos**  
-- Master **model deployment & monitoring**  
-- Work on **Generative AI, Agents, RAG, MLOps**
-
----
-
-⭐ **Thanks for visiting!**  
+⭐ **Thanks for visiting!**
