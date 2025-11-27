@@ -94,15 +94,15 @@ I love creating solutions using:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulladaniya&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulladaniya&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladaniyarahul&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulladaniya&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
 </p>
 
 ---
