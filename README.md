@@ -107,14 +107,14 @@
 
 ### 🔥 Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ladaniyarahul&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=ladaniyarahul&theme=transparent&v=2" />
 </p>
 
 ---
 
 # 🏆 Trophies (Premium Add-on)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ladaniyarahul&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ladaniyarahul&theme=onedark&no-frame=true&margin-w=10&v=2" />
 </p>
 
 ---
