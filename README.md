@@ -110,12 +110,6 @@
 
 ---
 
-# 🏆 Trophies (Premium Add-on)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ladaniyarahul&theme=onedark&no-frame=true&margin-w=10&v=2" />
-</p>
-
----
 
 # 👁️ Visitors  
 <p align="center">
