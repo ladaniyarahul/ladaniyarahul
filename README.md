@@ -104,7 +104,7 @@ I specialize in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-rahul-beta.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ I specialize in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-rahul-beta.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
 </p>
 
 ---
