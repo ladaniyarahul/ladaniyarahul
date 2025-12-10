@@ -1,56 +1,57 @@
-<h1 align="center">Hi 👋, I'm Rahul Jangid</h1>
-<h3 align="center">AI Engineer | LLMs | Computer Vision | MLOps</h3>
+<!-- Banner -->
+<h1 align="center">🚀 Rahul Jangid</h1>
+<h3 align="center">AI Engineer • LLMs • Computer Vision • MLOps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulladaniya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ladaniyarahul">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems+that+Scale;LLMs+%7C+Agents+%7C+LangGraph;Computer+Vision+%7C+MLOps+%7C+Realtime+Pipelines" />
 </p>
 
 ---
 
-## 🚀 About Me  
-AI Engineer building **LLM systems, real-time pipelines, MLOps deployments, and enterprise AI solutions.**  
-I specialize in:
-
-- 🧠 Machine Learning, Deep Learning  
-- 🤖 LLMs, RAG Pipelines, LangGraph, Agents  
-- 👁️ Computer Vision — YOLO, OCR, OpenCV  
-- ⚙️ FastAPI, Docker, Kafka, Qdrant  
-- 📈 End-to-end scalable AI product development  
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulladaniya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ladaniyarahul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me  
 
-### **Languages & Core**
+🔹 AI Engineer specializing in **LLM systems, scalable pipelines, computer vision, and MLOps**  
+🔹 Experienced with **LangGraph, Agents, RAG, YOLO, OCR, Docker, Kafka**  
+🔹 Passionate about building **production-grade AI systems**  
+🔹 Loves optimizing workflows and designing **end-to-end ML architectures**
+
+---
+
+# ⚙️ Tech Stack
+
+### 📝 Languages & Core Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux" />
 </p>
 
-### **Machine Learning / Deep Learning**
+### 🤖 Machine Learning / Deep Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn" />
 </p>
 
-### **LLMs & GenAI**
+### 🧩 LLMs / GenAI
 <p>
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Transformers-Huggingface-FFD21E?style=for-the-badge&logo=huggingface" />
   <img src="https://img.shields.io/badge/LangGraph-Agents-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-VectorDB-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-VectorDB-6C34FF?style=for-the-badge" />
 </p>
 
-### **Computer Vision**
+### 👁️ Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-e61919?style=for-the-badge" />
 </p>
 
-### **MLOps**
+### 🛠️ DevOps / MLOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,fastapi" />
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" />
@@ -58,63 +59,71 @@ I specialize in:
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 **AI Avatar with Lip Sync & Motion**  
-**Python | Deep Learning | CV**  
-- Generated realistic lip-sync & motion animation  
-- Accurate face-tracking → smooth expression mapping  
-- **Improved animation realism by 30%** (model tuning)
-
----
-
-### 🔹 **LangGraph Chatbot with AI Agents**  
-**LangGraph | Agents | Qdrant | Kafka | FastAPI**  
-- Real-time CRM chatbot using multi-agent workflow  
-- Kafka streams for scalable live chat ingestion  
-- **Reduced query response time by 40%**  
-- WebSocket-based real-time messaging  
+### 🔹 **AI Avatar with Lip Sync & Motion**
+- Realistic lip-sync + motion generation  
+- Face tracking → smooth expression mapping  
+- **Improved animation realism by 30%**
 
 ---
 
-### 🔹 **AI Document Parser (YOLO + OCR)**  
-**Python | YOLO | OCR | Pandas**  
+### 🔹 **LangGraph CRM Chatbot**
+- Multi-agent workflow for enterprise CRM  
+- Kafka for real-time message streaming  
+- **Reduced query latency by 40%**
+
+---
+
+### 🔹 **Document Parser (YOLO + OCR)**
 - 11-class document segmentation  
-- Auto table extraction into structured DataFrames  
-- **Cut manual data extraction time by 70%**
+- Table → DataFrame auto extraction  
+- **Saved 70% manual effort**
 
 ---
 
-### 🔹 **Realtime Object Detection & Counting**  
-**YOLO | OpenCV**  
+### 🔹 **Realtime Object Detection & Counting**
+- YOLO-based low-latency video analytics  
 - CCTV-ready detection + line-cross counting  
-- Optimized for low-latency performance  
-- Works on both live and recorded feeds  
+- Works on edge + cloud
 
 ---
 
-## 🔍 What I'm Looking For  
+# 🔭 What I'm Looking For
 - AI Engineer / ML Engineer roles  
-- LLM + RAG + Generative AI development  
-- CV-based intelligent pipeline development  
+- LLM + RAG + Agent System development  
+- Vision-based intelligent automation  
 - Scalable ML deployment (MLOps)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
+### ⭐ GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-rahul-beta.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats-rahul-beta.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats-rahul-beta.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
 </p>
 
+### 🔥 Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ladaniyarahul&theme=transparent" />
 </p>
 
+---
+
+# 🏆 Trophies (Premium Add-on)
 <p align="center">
-  <img src="https://github-readme-stats-rahul-beta.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ladaniyarahul&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting!**
+# 👁️ Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ladaniyarahul&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
