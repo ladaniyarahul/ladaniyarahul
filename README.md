@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rahulladaniya/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/rahulladaniya">
+  <a href="https://github.com/ladaniyarahul">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -108,9 +108,8 @@ I specialize in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladaniyarahul&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=ladaniyarahul&theme=transparent" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
