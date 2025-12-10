@@ -101,8 +101,8 @@
 
 ### ⭐ GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-rahul-beta.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent" />
-  <img width="48%" src="https://github-readme-stats-rahul-beta.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats-rahul-beta.vercel.app/api?username=ladaniyarahul&show_icons=true&theme=transparent&v=1" />
+  <img width="48%" src="https://github-readme-stats-rahul-beta.vercel.app/api/top-langs/?username=ladaniyarahul&layout=compact&theme=transparent&v=1" />
 </p>
 
 ### 🔥 Streak  
