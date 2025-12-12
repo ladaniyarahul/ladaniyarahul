@@ -107,8 +107,9 @@
 </p>
 
 ### 🔥 Streak  
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladaniyarahul&theme=transparent" /> </p> 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ladaniyarahul&theme=transparent" />
+</p>
 
 ---
 
