@@ -108,7 +108,7 @@
 
 ### 🔥 Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ladaniyarahul" />
+  <img src="https://streak-stats.demolab.com?user=ladaniyarahul&hide_border=true" />
 </p>
 
 ---
